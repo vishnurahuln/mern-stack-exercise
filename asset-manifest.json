@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mern-stack-exercise/static/css/main.00557328.css",
+    "main.js": "/mern-stack-exercise/static/js/main.80326166.js",
+    "index.html": "/mern-stack-exercise/index.html",
+    "main.00557328.css.map": "/mern-stack-exercise/static/css/main.00557328.css.map",
+    "main.80326166.js.map": "/mern-stack-exercise/static/js/main.80326166.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00557328.css",
+    "static/js/main.80326166.js"
+  ]
+}
